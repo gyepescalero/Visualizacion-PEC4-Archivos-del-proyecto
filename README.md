@@ -1,5 +1,6 @@
 # Visualizacion PEC4: Archivos del proyecto
 En este repositorio se incluyen todos los archivos utilizados en la asignatura Visualización de datos de la UOC para las prácticas de evaluación continua: PEC2, PEC3 y PEC4.
+Enlace Tableau Public: https://public.tableau.com/profile/germ.n.yepes#!/vizhome/Acuerdosdepazparalaspoblacionesindgenas_Visualizacin/Story1?publish=yes
 
 ## Archivos_datos
 Documentos .csv y .xlsx
