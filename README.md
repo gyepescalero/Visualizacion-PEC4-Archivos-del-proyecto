@@ -19,8 +19,19 @@ Documentos: .tex
 
 * Indigenous_Latex: documento con el código latex utilizado para compilar el pdf final.
 
+## Yepes_Calero_German-PEC4
+Documento .pdf con el informe final del proyecto desarollado durante las PECs 2, 3 y 4.
 
+## PECs_pdf
+Documentos: .pdf
 
+* Yepes_Calero_German-PEC2: Informe de la PEC2.
+* Yepes_Calero_German-PEC3: Informe de la PEC3.
+* Yepes_Calero_German-PEC4: Infomre de la PEC4.
 
+## Tableau
+Documentos: .twb
+
+* Visualizacion_PAX_Indigenas: documento con el código utilizado en tablo para crear la visualización.
 
 
